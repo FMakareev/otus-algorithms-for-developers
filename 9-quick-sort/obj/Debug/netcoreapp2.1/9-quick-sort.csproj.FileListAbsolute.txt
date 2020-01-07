@@ -1,0 +1,14 @@
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\9-quick-sort\bin\Debug\netcoreapp2.1\9-quick-sort.deps.json
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\9-quick-sort\bin\Debug\netcoreapp2.1\9-quick-sort.runtimeconfig.json
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\9-quick-sort\bin\Debug\netcoreapp2.1\9-quick-sort.runtimeconfig.dev.json
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\9-quick-sort\bin\Debug\netcoreapp2.1\9-quick-sort.dll
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\9-quick-sort\bin\Debug\netcoreapp2.1\9-quick-sort.pdb
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\9-quick-sort\obj\Debug\netcoreapp2.1\9-quick-sort.csprojAssemblyReference.cache
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\9-quick-sort\obj\Debug\netcoreapp2.1\9-quick-sort.csproj.CoreCompileInputs.cache
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\9-quick-sort\obj\Debug\netcoreapp2.1\9-quick-sort.AssemblyInfoInputs.cache
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\9-quick-sort\obj\Debug\netcoreapp2.1\9-quick-sort.AssemblyInfo.cs
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\9-quick-sort\obj\Debug\netcoreapp2.1\9-quick-sort.dll
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\9-quick-sort\obj\Debug\netcoreapp2.1\9-quick-sort.pdb
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\9-quick-sort\bin\Debug\netcoreapp2.1\Utilites.dll
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\9-quick-sort\bin\Debug\netcoreapp2.1\Utilites.pdb
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\9-quick-sort\obj\Debug\netcoreapp2.1\9-quick-sort.csproj.CopyComplete

@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_7_heap_sort</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\3-basic-data-structures\3-basic-data-structures.csproj" />
+    <ProjectReference Include="..\6-sorting\6-sorting.csproj" />
+    <ProjectReference Include="..\Utilites\Utilites.csproj" />
+  </ItemGroup>
+
+</Project>

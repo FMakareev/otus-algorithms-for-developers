@@ -32,14 +32,17 @@ namespace _3_basic_data_structures
 
         public void Add(T item, int index)
         {
-            if (index > array.Length)
+            if (index > Size() - 1)
             {
-                T[] newArray = new T[Size() + 1];
+                int diff = index - Size();
+       
+                T[] newArray = new T[Size() + diff + 1];
 
-                Array.Copy(array, 1, newArray, 0, Size() - 1);
+                Array.Copy(array, 0, newArray, 0, Size());
 
-                array[index] = item;
+                array = newArray;
             }
+            array[index] = item;
         }
 
         /// <summary>
@@ -78,7 +81,7 @@ namespace _3_basic_data_structures
         }
 
         /// <summary>
-        /// add item in srray start
+        /// add item in array start
         /// </summary>
         /// <param name="item"></param>
         public void Unshift(T item)
@@ -91,6 +94,10 @@ namespace _3_basic_data_structures
 
         public T Get(int index)
         {
+            if(index > array.Length - 1)
+            {
+                return default(T);
+            }
             return array[index];
         }
 

@@ -12,6 +12,7 @@ namespace _3_basic_data_structures
         T Get(int index);
         void Add(T item);
         void Add(T item, int index);
+
         T Remove(int index);
 
         T Pop();

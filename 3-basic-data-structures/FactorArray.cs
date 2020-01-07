@@ -4,7 +4,7 @@ using System.Text;
 
 namespace _3_basic_data_structures
 {
-    class FactorArray<T>: IArray<T>
+   public class FactorArray<T>: IArray<T>
     {
 
         private T[] array;
@@ -50,35 +50,63 @@ namespace _3_basic_data_structures
 
         public T Pop()
         {
-            throw new NotImplementedException();
+            T removeItem = default(T);
+            if (Size() > 0)
+            {
+                removeItem = array[Size() - 1];
 
+                T[] newArray = new T[size];
+                Array.Copy(array, 0, newArray, 0, Size() - 1);
+                array = newArray;
+
+                size -= 1;
+            }
+            return removeItem;
         }
 
         public T Shift()
         {
-            throw new NotImplementedException();
+            T removeItem = default(T);
+            if (Size() > 0)
+            {
+                T[] newArray = new T[Size() - 1];
+                removeItem = array[0];
+
+                Array.Copy(array, 1, newArray, 0, Size() - 1);
+
+                array = newArray;
+                size -= 1;
+            }
+            return removeItem;
         }
+
+        public void Unshift(T item)
+        {
+            T[] newArray = new T[Size() + 1];
+            Array.Copy(array, 0, newArray, 1, Size());
+            array = newArray;
+            array[0] = item;
+            size += 1;
+        }
+
         public void Swap(int source, int target)
         {
             T temp = array[source];
             array[source] = array[target];
             array[target] = temp;
         }
-        public void Unshift(T item)
-        {
-            throw new NotImplementedException();
-        }
+
         public T Remove(int index)
         {
             T removeItem = default(T);
-            if (index < array.Length)
+            if (index < Size())
             {
                 T[] newArray = new T[Size() - 1];
                 removeItem = array[index];
 
                 Array.Copy(array, 0, newArray, 0, index);
                 Array.Copy(array, index + 1, newArray, index, newArray.Length - index);
-
+                size -= 1;
                 array = newArray;
             }
             return removeItem;

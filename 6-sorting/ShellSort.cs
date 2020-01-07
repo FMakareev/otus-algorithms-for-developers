@@ -6,9 +6,7 @@ using _3_basic_data_structures;
 namespace _6_sorting
 {
     class ShellSort
-    {
-
-
+    {        
         public ShellSort(in IArray<int> arr)
         {
             int length = arr.Size();

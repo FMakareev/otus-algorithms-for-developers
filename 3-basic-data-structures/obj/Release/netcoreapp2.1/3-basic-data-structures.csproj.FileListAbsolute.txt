@@ -1,0 +1,11 @@
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\3-basic-data-structures\bin\Release\netcoreapp2.1\3-basic-data-structures.deps.json
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\3-basic-data-structures\bin\Release\netcoreapp2.1\3-basic-data-structures.runtimeconfig.json
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\3-basic-data-structures\bin\Release\netcoreapp2.1\3-basic-data-structures.runtimeconfig.dev.json
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\3-basic-data-structures\bin\Release\netcoreapp2.1\3-basic-data-structures.dll
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\3-basic-data-structures\bin\Release\netcoreapp2.1\3-basic-data-structures.pdb
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\3-basic-data-structures\obj\Release\netcoreapp2.1\3-basic-data-structures.csprojAssemblyReference.cache
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\3-basic-data-structures\obj\Release\netcoreapp2.1\3-basic-data-structures.csproj.CoreCompileInputs.cache
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\3-basic-data-structures\obj\Release\netcoreapp2.1\3-basic-data-structures.AssemblyInfoInputs.cache
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\3-basic-data-structures\obj\Release\netcoreapp2.1\3-basic-data-structures.AssemblyInfo.cs
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\3-basic-data-structures\obj\Release\netcoreapp2.1\3-basic-data-structures.dll
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\3-basic-data-structures\obj\Release\netcoreapp2.1\3-basic-data-structures.pdb

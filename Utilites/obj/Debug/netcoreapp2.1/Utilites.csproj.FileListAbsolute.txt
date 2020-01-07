@@ -1,0 +1,11 @@
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\Utilites\bin\Debug\netcoreapp2.1\Utilites.deps.json
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\Utilites\bin\Debug\netcoreapp2.1\Utilites.runtimeconfig.json
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\Utilites\bin\Debug\netcoreapp2.1\Utilites.runtimeconfig.dev.json
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\Utilites\bin\Debug\netcoreapp2.1\Utilites.dll
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\Utilites\bin\Debug\netcoreapp2.1\Utilites.pdb
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\Utilites\obj\Debug\netcoreapp2.1\Utilites.csproj.CoreCompileInputs.cache
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\Utilites\obj\Debug\netcoreapp2.1\Utilites.AssemblyInfoInputs.cache
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\Utilites\obj\Debug\netcoreapp2.1\Utilites.AssemblyInfo.cs
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\Utilites\obj\Debug\netcoreapp2.1\Utilites.dll
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\Utilites\obj\Debug\netcoreapp2.1\Utilites.pdb
+E:\Dev\otus-algorithms-for-developers\otus-algorithms-for-developers\Utilites\obj\Debug\netcoreapp2.1\Utilites.csprojAssemblyReference.cache
